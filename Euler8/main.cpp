@@ -5,6 +5,7 @@
 //  Created by Jack Goodson on 30/05/20.
 //  Copyright © 2020 Jack Goodson. All rights reserved.
 //  This is my first ever cpp program !!
+//  This program will produce the answer to Euler project question 8
 
 
 #include <fstream>
