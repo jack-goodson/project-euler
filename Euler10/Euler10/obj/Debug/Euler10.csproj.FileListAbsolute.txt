@@ -1,0 +1,6 @@
+/Users/jackgoodson/Documents/projects/Euler10/Euler10/obj/Debug/Euler10.csprojAssemblyReference.cache
+/Users/jackgoodson/Documents/projects/Euler10/Euler10/obj/Debug/Euler10.csproj.CoreCompileInputs.cache
+/Users/jackgoodson/Documents/projects/Euler10/Euler10/bin/Debug/Euler10.exe
+/Users/jackgoodson/Documents/projects/Euler10/Euler10/bin/Debug/Euler10.pdb
+/Users/jackgoodson/Documents/projects/Euler10/Euler10/obj/Debug/Euler10.exe
+/Users/jackgoodson/Documents/projects/Euler10/Euler10/obj/Debug/Euler10.pdb
